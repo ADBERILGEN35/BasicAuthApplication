@@ -7,7 +7,7 @@ Bu proje, rol tabanlı erişim kontrolü (RBAC) ile basit bir kullanıcı yönet
 ### User Entity
 
 - `User` sınıfı, sistemin bir kullanıcısını temsil eder.
-- Alanlar arasında ad, kullanıcı adı, parola, yetkiler ve hesap durumunu belirten bayraklar bulunur.
+- Alanlar arasında ad, kullanıcı adı, parola, yetkiler ve hesap durumunu belirten değişkenler bulunur.
   
 ### Role Enum
 
